@@ -17,14 +17,16 @@ This repository containing code test for 3 problem solving case:
 ## Complexity Analysis for Balanced Brackets Code
 
 1. Time Complexity: O(n)
-    * The function iterates through each character of the input string s exactly once.
-    * For each character, the operations performed—such as checking if it’s whitespace, pushing to the stack, or popping from the stack—take constant time, O(1).
-    * Therefore, if n is the length of the input string, the overall time complexity is O(n).
+
+   * The given function scans through every character of the string s exactly once.
+   * For every character, actions such as seeing whether it is space, pushing, and popping receive constant time, O(1).
+   * Therefore, if n represents the input string length, the overall time complexity can be written as O(n).
 
 2. Space Complexity: O(n)
-    * The space complexity arises from the use of a stack to store the opening brackets.
-    * In the worst-case scenario, where all characters in the string are opening brackets, we may need to store all of them in the stack.
-    * As a result, the space usage is proportional to the number of brackets in the input string, leading to a space complexity of O(n) in the worst case.
+
+   * A space complexity is resulted from the necessity of a stack to keep the entire opening brackets.
+   * In the worst case scenario all characters of the string are opening brackets; such all will have to be kept in the stack.
+   * Thus, the space used is dependent on the number of brackets present in the input string giving it a space complexity of O(n) in the extreme case.
 
 **Summary**
 * Time Complexity: O(n)
