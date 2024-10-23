@@ -2,9 +2,17 @@
 
 This repository containing code test for 3 problem solving case:
 
-1. Weighted Strings
-2. Balanced Brackets
-3. Highest Palindrome
+### 1. Weighted Strings
+
+![weighted-strings-screen-shoot](https://github.com/user-attachments/assets/ea3241bc-b564-4fc0-89c1-3bfa68bebe34)
+   
+### 2. Balanced Brackets
+
+![brackets-screen-shoot](https://github.com/user-attachments/assets/24b3e02d-2c9a-492c-a93d-787abb76118d)
+   
+### 3. Highest Palindrom
+
+![palindrome-screen-shoot](https://github.com/user-attachments/assets/1bc703c2-1093-43d6-9729-26cdc8e62402)
 
 ## Complexity Analysis for Balanced Brackets Code
 
